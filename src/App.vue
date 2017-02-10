@@ -118,6 +118,13 @@ export default {
 
 <style lang="less" scoped>
   @import url('./less/border.less');
+  body{
+    margin: 0;
+}
+
+a{
+  text-decoration: none;
+}
   ul{
     list-style: none;
     padding-left: 0;

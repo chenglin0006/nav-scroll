@@ -33,3 +33,5 @@ data:{
 
   showLeastItemNum:进入页面时每个tab下展示的item的个数
 
+  link:https://chenglin0006.github.io/nav-scroll/test/dist/index.html
+

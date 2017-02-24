@@ -35,3 +35,9 @@ data:{
 
   link:https://chenglin0006.github.io/nav-scroll/test/dist/index.html
 
+  本地调试
+# cd nav-scroll
+# npm install
+# webpack --watch
+# npm start
+
